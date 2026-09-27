@@ -183,3 +183,10 @@ systemctl --user daemon-reload
 systemctl --user enable --now opencat
 loginctl enable-linger $USER
 ```
+
+---
+
+## 📄 License
+
+MIT © [Sheik Sadi](https://github.com/SheikSadi)
+
